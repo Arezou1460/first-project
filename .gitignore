@@ -1,0 +1,7 @@
+# add test to comment
+
+*.txt
+
+logs/
+
+build/
