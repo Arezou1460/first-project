@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+    background-color: pink;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+   
+  }
+  
+  .App-form {
+    flex-direction: column;
+    border: 2px solid black;
+    display: flex;
+    height: 400px;
+    width: 600px;
+    align-items: center;
+  }
+  
+  .App--text {
+    margin-top: 26px;
+    height: 30px;
+    width: 400px;
+  }
+  
+  .App--submit {
+    margin-top: 25px;
+    height: 30px;
+  }
+  
