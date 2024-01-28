@@ -13,3 +13,7 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+  }
